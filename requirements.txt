@@ -1,0 +1,7 @@
+country_converter
+pycountry_convert
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
